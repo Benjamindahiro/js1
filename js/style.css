@@ -1,0 +1,75 @@
+.button_style{
+    border-color: rgb(60, 64, 255);
+    color: #000;
+}
+body{
+  /* background-color: #000; */
+}
+.button_style:hover{
+  background-color: rgb(60, 64, 255);
+}
+main{
+    margin-top: 20px;
+}
+.up_caming{
+  margin-top: 20px;
+  text-align: center;
+}
+.box_one{
+  margin-top: 40px;
+}
+.image_one img{
+  width: 50%;
+  height: 400px;
+  margin-left: 100px;
+}
+.image_one{
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+}
+.image_two img{
+  width: 50%;
+  height: 400px;
+  margin-left: 100px;
+}
+.image_two{
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+}
+.image_three img{
+  width: 50%;
+  height: 400px;
+  margin-left: 100px;
+}
+.image_three{
+  text-align: center;
+  background-color: #000;
+  color: #fff;;
+}
+.class_boxone img{
+  width: 50%;
+  height: 400px;
+  margin-left: 100px;
+  text-align: center;
+}
+.class_two{
+  text-align: center;
+  padding: 20px;
+}
+.class_one{
+  background-color: #000;
+  text-align: center;
+  color: #fff;
+}
+.class_two{
+  background-color: #000;
+  text-align: center;
+  color: #fff;
+}
+.class_three{
+  background-color: #000;
+  text-align: center;
+  color: #fff;
+}
